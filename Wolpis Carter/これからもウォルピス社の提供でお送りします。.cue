@@ -1,0 +1,69 @@
+REM GENRE "JPop"
+REM DATE 2018
+TITLE "これからもウォルピス社の提供でお送りします。"
+PERFORMER "ウォルピスカーター"
+FILE "01. 天ノ弱.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "天ノ弱"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "02. 廃景に鉄塔、「千鶴」は田園にて待つ。.flac" WAVE
+  TRACK 02 AUDIO
+    TITLE "廃景に鉄塔、「千鶴」は田園にて待つ。"
+    INDEX 00 00:00:00
+    INDEX 01 00:01:05
+FILE "03. STILL GREEN.flac" WAVE
+  TRACK 03 AUDIO
+    TITLE "STILL GREEN"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:60
+FILE "04. 命のユースティティア.flac" WAVE
+  TRACK 04 AUDIO
+    TITLE "命のユースティティア"
+    INDEX 00 00:00:00
+    INDEX 01 00:01:15
+FILE "05. ストリーミングハート.flac" WAVE
+  TRACK 05 AUDIO
+    TITLE "ストリーミングハート"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:05
+FILE "06. お天道様とドブネズミ.flac" WAVE
+  TRACK 06 AUDIO
+    TITLE "お天道様とドブネズミ"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:10
+FILE "07. M.flac" WAVE
+  TRACK 07 AUDIO
+    TITLE "M"
+    INDEX 00 00:00:00
+    INDEX 01 00:01:10
+FILE "08. オレンジ.flac" WAVE
+  TRACK 08 AUDIO
+    TITLE "オレンジ"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:25
+FILE "09. 傀儡マイム.flac" WAVE
+  TRACK 09 AUDIO
+    TITLE "傀儡マイム"
+    INDEX 00 00:00:00
+    INDEX 01 00:01:00
+FILE "10. 未来予想図Ⅱ.flac" WAVE
+  TRACK 10 AUDIO
+    TITLE "未来予想図Ⅱ"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:45
+FILE "11. 泥中に咲く.flac" WAVE
+  TRACK 11 AUDIO
+    TITLE "泥中に咲く"
+    INDEX 00 00:00:00
+    INDEX 01 00:01:00
+FILE "12. DAYBREAK FRONTLINE.flac" WAVE
+  TRACK 12 AUDIO
+    TITLE "DAYBREAK FRONTLINE"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:05
+FILE "13. THE JOURNEY HOME.flac" WAVE
+  TRACK 13 AUDIO
+    TITLE "THE JOURNEY HOME"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:15

@@ -1,0 +1,61 @@
+[CUETools log; Date: 23.09.2022 15:48:22; Version: 2.2.0]
+[CTDB TOCID: 5PnCqRKR2ubeDqOSN_jcEE0NajY-] found.
+Track | CTDB Status
+  1   | (99/99) Accurately ripped
+  2   | (99/99) Accurately ripped
+  3   | (99/99) Accurately ripped
+  4   | (99/99) Accurately ripped
+  5   | (99/99) Accurately ripped
+  6   | (99/99) Accurately ripped
+  7   | (98/99) Accurately ripped
+  8   | (99/99) Accurately ripped
+  9   | (99/99) Accurately ripped
+ 10   | (99/99) Accurately ripped
+ 11   | (99/99) Accurately ripped
+ 12   | (99/99) Accurately ripped
+ 13   | (99/99) Accurately ripped
+[AccurateRip ID: 0018dc15-00fd2812-9e0cd70d] found.
+Track   [  CRC   |   V2   ] Status
+ 01     [fc2549b3|1578074b] (00+00/10) No match
+ 02     [fe0ba3b2|ac561a90] (00+00/10) No match
+ 03     [0f8cc2e6|12fc88af] (00+00/10) No match
+ 04     [45cdfb41|3349ddea] (00+00/10) No match
+ 05     [f840e8fd|ab0aca32] (00+00/10) No match
+ 06     [b2ef93b3|2c99fee9] (00+00/10) No match
+ 07     [91f47766|e47bb052] (00+00/10) No match
+ 08     [ae47fe39|5131b070] (00+00/10) No match
+ 09     [226a88e8|1269159e] (00+00/10) No match
+ 10     [94bb38d5|bfdbc247] (00+00/10) No match
+ 11     [7408e76a|4506b239] (00+00/10) No match
+ 12     [27953d92|39678095] (00+00/10) No match
+ 13     [a6df2ba8|ac447c85] (00+00/10) No match
+Offsetted by 6:
+ 01     [83ea56e7] (00/10) No match (V2 was not tested)
+ 02     [885a7ed8] (00/10) No match (V2 was not tested)
+ 03     [949b19b8] (00/10) No match (V2 was not tested)
+ 04     [694a03a5] (00/10) No match (V2 was not tested)
+ 05     [2772fbad] (00/10) No match (V2 was not tested)
+ 06     [034f99bd] (00/10) No match (V2 was not tested)
+ 07     [8e8267f0] (00/10) No match (V2 was not tested)
+ 08     [45ffffbd] (00/10) No match (V2 was not tested)
+ 09     [aa53fcf8] (00/10) No match (V2 was not tested)
+ 10     [2a59a309] (00/10) No match (V2 was not tested)
+ 11     [dc41a92e] (00/10) No match (V2 was not tested)
+ 12     [386e9b0e] (00/10) No match (V2 was not tested)
+ 13     [78c76238] (00/10) No match (V2 was not tested)
+
+Track Peak [ CRC32  ] [W/O NULL] 
+ --  100,0 [EA3824C2] [E01F3434]           
+ 01  100,0 [BB56A9F1] [67BBDEAB]           
+ 02   98,8 [EA805440] [4F53F3C3]           
+ 03   98,8 [A7271199] [3FC6A6F4]           
+ 04   98,8 [5E5B5518] [DA3892BA]           
+ 05   98,8 [648B50CE] [6DFEE0DC]           
+ 06   98,8 [B1EE77F5] [CA9934C3]           
+ 07   98,8 [A0055388] [1F3943A2]           
+ 08   98,8 [784FE234] [6D717015]           
+ 09   98,8 [7916F383] [DD4E4A56]           
+ 10   94,4 [FE2C73A4] [B8840323]           
+ 11  100,0 [62D96980] [49A6468C]           
+ 12   98,8 [EE2B357F] [2EC7C6D5]           
+ 13   98,8 [025F8E53] [4375FC65]           
